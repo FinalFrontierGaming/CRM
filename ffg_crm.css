@@ -1,0 +1,29 @@
+.box-leads {
+  background: rgb(1,80,63);
+  background: linear-gradient(61deg, rgba(1,80,63,1) 0%, rgba(2,193,184,1) 63%);
+  }
+
+.box-mycontacts {
+  background: rgb(26,1,80);
+  background: linear-gradient(61deg, rgba(26,1,80,1) 0%, rgba(2,108,193,1) 63%);
+  }
+
+.box-activities {
+  background: rgb(80,53,1);
+  background: linear-gradient(61deg, rgba(80,53,1,1) 0%, rgba(193,53,2,1) 63%);
+  }
+
+.box-recruitmentannouncements {
+  background: rgb(80,1,29);
+  background: linear-gradient(61deg, rgba(80,1,29,1) 0%, rgba(193,2,76,1) 63%);
+  }
+
+.box-performance {
+  background: rgb(72,80,1);
+  background: linear-gradient(61deg, rgba(72,80,1,1) 0%, rgba(173,193,2,1) 63%);
+  }
+
+.box-reports {
+  background: rgb(3,80,1);
+  background: linear-gradient(61deg, rgba(3,80,1,1) 0%, rgba(2,193,8,1) 63%);
+  }
